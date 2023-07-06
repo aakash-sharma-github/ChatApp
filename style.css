@@ -1,0 +1,14 @@
+/* *{
+    margin: 2vb;
+    padding: 0vb;
+} */
+
+h1 {
+    text-align: center;
+}
+.msg {
+  width: 90%;
+  margin-left: 5%;
+  height: 200px;
+  overflow: scroll;
+}
