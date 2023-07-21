@@ -12,7 +12,7 @@ This is a simple ChatApp that allows users to communicate with each other in rea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chat-app-websocket-bootstrap.git
+   git clone https://github.com/aakash-sharma-github/Code_Clause_ChatApp_Using_WebSocket.git
    ```
 
 2. Navigate to the project directory:
@@ -32,7 +32,7 @@ This is a simple ChatApp that allows users to communicate with each other in rea
 1. Run the server:
 
    ```bash
-   node server.js
+   node index.js
    ```
 
 2. Open your preferred web browser and navigate to `http://localhost:3000` to access the ChatApp.
@@ -45,9 +45,18 @@ This is a simple ChatApp that allows users to communicate with each other in rea
 - You can customize the UI by modifying the HTML and CSS files, specifically utilizing Bootstrap classes and components.
 
 ## Contributing
+Contributions to the Web Text Editor are highly appreciated! To contribute, please follow these steps:
 
-Pull requests and contributions are always welcome. For major changes, please open an issue first to discuss what you would like to change.
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make the necessary changes and commit them.
+Push your changes to your forked repository.
+Submit a pull request, explaining the changes made and their benefits.
 
 ## License
+The Web Text Editor is open source.
 
-This project is open source.
+## Contact
+If you have any questions or suggestions, please don't hesitate to contact me, Aakash Sharma, at aakashsharma9855@gmail.com.
+
+Enjoy editing and formatting text with the Web Text Editor!
