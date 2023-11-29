@@ -12,13 +12,13 @@ This is a simple ChatApp that allows users to communicate with each other in rea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aakash-sharma-github/Code_Clause_ChatApp_Using_WebSocket.git
+   git clone https://github.com/aakash-sharma-github/ChatApp_Using_WebSocket.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Code_Clause_basic_textEditor
+   cd ChatApp_Using_WebSocket
    ```
 
 3. Install the project dependencies:
